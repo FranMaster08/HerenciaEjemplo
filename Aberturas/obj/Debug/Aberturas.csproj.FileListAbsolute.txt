@@ -1,0 +1,7 @@
+C:\Users\A308610\Desktop\Ale Avila\HerenciasAlejandro\Aberturas\bin\Debug\Aberturas.exe.config
+C:\Users\A308610\Desktop\Ale Avila\HerenciasAlejandro\Aberturas\bin\Debug\Aberturas.exe
+C:\Users\A308610\Desktop\Ale Avila\HerenciasAlejandro\Aberturas\bin\Debug\Aberturas.pdb
+C:\Users\A308610\Desktop\Ale Avila\HerenciasAlejandro\Aberturas\obj\Debug\Aberturas.csprojAssemblyReference.cache
+C:\Users\A308610\Desktop\Ale Avila\HerenciasAlejandro\Aberturas\obj\Debug\Aberturas.csproj.CoreCompileInputs.cache
+C:\Users\A308610\Desktop\Ale Avila\HerenciasAlejandro\Aberturas\obj\Debug\Aberturas.exe
+C:\Users\A308610\Desktop\Ale Avila\HerenciasAlejandro\Aberturas\obj\Debug\Aberturas.pdb
